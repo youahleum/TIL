@@ -4,8 +4,6 @@
 
 1. js 온라인 강의
    - [js-test github](https://github.com/youahleum/JS-test)
-1. 온라인 강의
-1.
 
 ---
 
