@@ -4,6 +4,8 @@
 
 1. js 온라인 강의
    - [js-test github](https://github.com/youahleum/JS-test)
+1. Vue.js 온라인 강의듣기
+1. 프로그래머스 문제 풀기
 
 ---
 
