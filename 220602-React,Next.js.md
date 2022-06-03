@@ -2,11 +2,9 @@
 
 ### 온라인 강의
 
-1. React 실습
-   - [React 회원가입 구현](https://github.com/youahleum/ST-FE_0602)
 1. React 공부, 복습
-   - [컨디셔널렌더링 블로그 정리](https://dkfma6033.tistory.com/150)
 1. Next.js 온라인 강의
+1. 노션 포트폴리오 정리
 
 ---
 
