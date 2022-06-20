@@ -1,9 +1,8 @@
 # 오늘 한 일
 
-### 온라인 강의
+1. React MiniProject
 
-1. React with typeScript , React
-1. 프로그래머스 문제 풀이
+- newyork times api 활용한 news web site 만들기
 
 ---
 
